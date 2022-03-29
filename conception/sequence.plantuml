@@ -1,0 +1,14 @@
+@startuml rendez-vous
+left to right direction
+skinparam packageStyle rectangle
+actor client
+actor admin
+client <|-- admin
+rectangle Rendez-vous {
+    client -- (ajouter-rendez)
+    client -- (modifier-rendez)
+    (ajouter-rendez) .> (authentif) : include
+    (modifier-rendez) .> (ajouter-rendez) : include
+    (CRUD client) -- admin
+}
+@enduml

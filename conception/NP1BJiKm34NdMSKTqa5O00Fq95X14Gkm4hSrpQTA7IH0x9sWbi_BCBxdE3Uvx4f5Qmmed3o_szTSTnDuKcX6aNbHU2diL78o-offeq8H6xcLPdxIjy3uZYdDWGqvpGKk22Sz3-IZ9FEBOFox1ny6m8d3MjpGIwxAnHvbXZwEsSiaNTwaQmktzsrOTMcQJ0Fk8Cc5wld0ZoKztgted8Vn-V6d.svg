@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="428px" preserveAspectRatio="none" style="width:454px;height:428px;background:#FFFFFF;" version="1.1" viewBox="0 0 454 428" width="454px" zoomAndPan="magnify"><defs/><g><!--MD5=[28b08b95442adb0ca754d299edce9224]
+cluster Rendez-vous--><g id="cluster_Rendez-vous"><rect height="415" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:1.0;fill:none;" width="262" x="94" y="7"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="102" x="174" y="21.9951">Rendez-vous</text></g><g id="elem_ajouter-rendez"><ellipse cx="224.8844" cy="301.9769" fill="#F1F1F1" rx="75.3844" ry="17.4769" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="107" x="168.3844" y="305.7244">ajouter-rendez</text></g><g id="elem_modifier-rendez"><ellipse cx="224.8735" cy="213.7747" fill="#F1F1F1" rx="79.3735" ry="18.2747" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="164.4676" y="217.2248">modifier-rendez</text></g><g id="elem_ajjouter-rendez"><ellipse cx="224.9563" cy="141.7913" fill="#F1F1F1" rx="76.9563" ry="17.7913" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="111" x="166.5675" y="145.5101">ajjouter-rendez</text></g><g id="elem_authentif"><ellipse cx="225.0664" cy="56.7722" fill="#F1F1F1" rx="60.0664" ry="14.7722" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="67" x="188.5664" y="60.5198">authentif</text></g><g id="elem_CRUD client et rendez-vous"><ellipse cx="225.1614" cy="379.9323" fill="#F1F1F1" rx="115.1614" ry="25.4323" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="197" x="126.6614" y="382.779">CRUD client et rendez-vous</text></g><!--MD5=[4a65e84059005d12693a083370a06717]
+entity client--><g id="elem_client"><ellipse cx="26.5" cy="223.5" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M26.5,231.5 L26.5,258.5 M13.5,239.5 L39.5,239.5 M26.5,258.5 L13.5,273.5 M26.5,258.5 L39.5,273.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="41" x="6" y="287.9951">client</text></g><!--MD5=[79a439086b036a57b90a01d7b2f8bbd1]
+entity admin--><g id="elem_admin"><ellipse cx="425" cy="350.5" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M425,358.5 L425,385.5 M412,366.5 L438,366.5 M425,385.5 L412,400.5 M425,385.5 L438,400.5 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="403" y="414.9951">admin</text></g><!--MD5=[2f6435d90ae8629499e3e01c4b7fa6d7]
+link client to ajouter-rendez--><g id="link_client_ajouter-rendez"><path d="M47.0596,257.877 C76.085,265.115 131.553,278.947 172.681,289.203 " fill="none" id="client-ajouter-rendez" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ebca728516b9e60a1c3a64fba0c8d1c1]
+link client to modifier-rendez--><g id="link_client_modifier-rendez"><path d="M47.0596,249.118 C74.0464,243.762 123.892,233.869 163.817,225.945 " fill="none" id="client-modifier-rendez" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4be09b2b95265561c9073195d779dbd6]
+link ajjouter-rendez to authentif--><g id="link_ajjouter-rendez_authentif"><path d="M225,123.974 C225,110.259 225,91.385 225,77.168 " fill="none" id="ajjouter-rendez-to-authentif" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="225,72.16,221,81.16,225,77.16,229,81.16,225,72.16" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="45" x="191" y="102.5669">include</text></g><!--MD5=[471bfc623d3e5b3bcc68d5c2ec173c95]
+link modifier-rendez to ajouter-rendez--><g id="link_modifier-rendez_ajouter-rendez"><path d="M225,232.693 C225,246.239 225,264.634 225,279.069 " fill="none" id="modifier-rendez-to-ajouter-rendez" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="225,284.192,229,275.192,225,279.192,221,275.192,225,284.192" style="stroke:#181818;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="45" x="191" y="263.0669">include</text></g><!--MD5=[6d9cdee43cc26e0b013a38ebdd79259c]
+link CRUD client et rendez-vous to admin--><g id="link_CRUD client et rendez-vous_admin"><path d="M340.03,380 C364.1,380 386.957,380 402.728,380 " fill="none" id="CRUD client et rendez-vous-admin" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[cb0ebf723795ce7f67bb3d51b2203ddd]
+@startuml
+left to right direction
+skinparam packageStyle rectangle
+actor client
+actor admin
+rectangle Rendez-vous {
+    client - - (ajouter-rendez)
+    client - - (modifier-rendez)
+    (ajjouter-rendez) .> (authentif) : include
+    (modifier-rendez) .> (ajouter-rendez) : include
+    (CRUD client et rendez-vous) - - admin
+}
+@enduml
+
+PlantUML version 1.2022.3beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
